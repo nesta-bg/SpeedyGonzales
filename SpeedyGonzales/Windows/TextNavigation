@@ -1,8 +1,11 @@
 * CTRL + RIGHT ARROW - Move the Cursor One Word to the Right.
 * CTRL + LEFT ARROW - Move the Cursor One Word to the Left.
+
 * END - Move the Cursor to the End of the Line.
 * HOME - Move the Cursor to the Beginning of the Line.
+
 * PAGE DOWN - Scroll Down.
 * PAGE UP - Scroll Up.
+
 * CTRL + HOME - Jump to the Beginning of the File.
 * CTRL + END - Jump to the End of the File.
