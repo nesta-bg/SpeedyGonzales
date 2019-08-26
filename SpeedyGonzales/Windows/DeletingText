@@ -1,0 +1,7 @@
+* BACKSPACE - Delete One Character to the Left of the Cursor.
+* DEL - Delete One Character to the Right of the Cursor.
+
+* CTRL + BACKSPACE - Delete One Word to the Left of the Cursor.
+* CTRL + DEL - Delete One Word to the Right of the Cursor.
+
+* CTRL + L - Delete the Current Line.
