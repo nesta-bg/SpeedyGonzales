@@ -1,0 +1,10 @@
+* SHIFT - Activate Selection.
+
+* SHIFT + RIGHT ARROW - Select One Character to the Right.
+* SHIFT + LEFT ARROW - Select One Character to the Left.
+
+* SHIFT + CTRL + RIGHT ARROW - Select One Word to the Right.
+* SHIFT + CTRL + LEFT ARROW - Select One Word to the Left.
+
+* SHIFT + END - Select from where the Cursor is to the end of the Line.
+* SHIFT + HOME - Select from the Beginning of the Line to where the Cursor is.
