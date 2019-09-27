@@ -1,0 +1,20 @@
+* CTRL + F5 - Run the Application (Without Debug Mode).
+
+* F9 - Insert/Remove a Breakpoint (We Can Put More than One Breakpoint). This is Where the Execution Stops.
+* CTRL + SHIFT + F9 - Delete All Breakpoints.
+
+* F5 - Run the Application in the Debug Mode. Stop the Execution at First Breakpoint. 
+* F5 - Continue Till the Next Breakpoint.
+* CTRL + SHIFT + F5 - Restart the Application in the Debug Mode.
+* SHIFT + F5 - Stop the Debugging Session.
+
+* F10 - Step Over a Method. Execution Continues to the Next Line. 
+* DRAG AND DROP YELLOW ARROW - Move Forward/Backward.
+
+* F11 - Step Into a Method.
+* SHIFT + F11 - Step Out of a Method. 
+
+* CTRL+ALT+W,1 - Watch Window.
+* CTRL+ALT+C - Call Stack Window.
+* CTRL+ALT+V,A - Autos Window.
+* CTRL+ALT+V,L - Locals Window.
