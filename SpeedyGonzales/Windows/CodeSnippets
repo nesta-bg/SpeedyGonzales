@@ -1,0 +1,21 @@
+* class + TAB = Create a Class. 
+* ctor + TAB = Create a Constructor. 
+
+* interface + TAB = Create an Interface.
+
+* prop + TAB = Create an Auto-implemented Property. 
+* propfull + TAB = Create a Property with a Private Field. 
+
+* equals + TAB = Override the Equals Method of the Base Object Class. 
+
+* for + TAB = Create a For Loop.
+* forr + TAB = Create a For Loop that Decrements the Loop Variable.
+
+* foreach + TAB = Create a Foreach Loop. 
+
+* while + TAB = Create a While Loop. 
+
+* do + TAB = Create a Do Loop. 
+
+* try + TAB = Create a Try/Catch Block. 
+* tryf + TAB = Create a Try/Finally Block. 
